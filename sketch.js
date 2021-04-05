@@ -73,7 +73,7 @@ function draw(){
 
     rectMode(CENTER);
     
-    background(56,44,44);
+    background("skyblue");
 
     Engine.update(engine);
 
